@@ -1,0 +1,5 @@
+- I’m Zenithail
+- I’m interested in programming
+- I’m currently learning python and javascript.
+- Telegram: t.me/zenithail
+- He/Him
